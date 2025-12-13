@@ -1,0 +1,21 @@
+export const LANGUAGES = [
+  { code: "auto", name: "Auto detect" },
+  { code: "en", name: "English" },
+  { code: "hi", name: "Hindi" },
+  { code: "ta", name: "Tamil" },
+  { code: "te", name: "Telugu" },
+  { code: "ml", name: "Malayalam" },
+  { code: "bn", name: "Bengali" },
+  { code: "mr", name: "Marathi" },
+  { code: "gu", name: "Gujarati" },
+  { code: "pa", name: "Punjabi" },
+  { code: "kn", name: "Kannada" },
+  { code: "ur", name: "Urdu" },
+  { code: "fr", name: "French" },
+  { code: "es", name: "Spanish" },
+  { code: "de", name: "German" },
+  { code: "ar", name: "Arabic" },
+  { code: "zh", name: "Chinese (Simplified)" },
+  { code: "ja", name: "Japanese" },
+  { code: "ru", name: "Russian" }
+];
